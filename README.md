@@ -1,4 +1,5 @@
 PanDownload的个人维护版本
+某人 下载地址 https://kinhdown.kinh.cc/
 
 官网：<https://kurukurumi.tk/>
 
